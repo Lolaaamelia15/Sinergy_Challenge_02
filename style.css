@@ -16,7 +16,33 @@
     ;
 }
 
+#sewamobil {
+    width: 90%;
+    height: 326px;
+    text-align: center;
+    border-radius: 13px;
+    background-color: #0D28A6;
+    color: white;
 
+}
+
+#sewabutton {
+    height: 36px;
+    width: 170px;
+    padding: 8px, 12px, 8px, 12px;
+    border-radius: 2px;
+    background-color: #5CB85F;
+    margin: 0px;
+
+}
+
+.accordion-item {
+    border: 1px solid #D4D4D4;
+    width: 600px;
+    padding: auto;
+
+
+}
 .paragraf1 {
     font-family: 'Helvetica';
     font-style: normal;
