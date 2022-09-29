@@ -1,0 +1,37 @@
+.offcanvas-body {
+    margin-left: 136px;
+    margin-top: 25px;
+
+}
+
+.btn-success {
+    margin-right: 136px;
+    border-radius: 2px;
+    width: 81px;
+    height: 36px;
+} 
+
+.box {
+    background-color: #D0D0D0;
+    ;
+}
+
+
+.paragraf1 {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+}
+
+.container-fluids {
+    text-align: center;
+}
+
+@media only screen and  (max-width: 576px) {
+    .img-ilustration {
+        width: 344.22px;
+        height: 199px;
+    
+    }
+
+}
